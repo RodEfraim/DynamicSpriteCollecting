@@ -34,4 +34,4 @@ Player half way done collecting the good sprites.
 
 Display when the game is finished.
 
-<img src="DemosImages/dynamicGameEnd.png" width="550">
+<img src="DemoImages/dynamicGameEnd.png" width="550">
