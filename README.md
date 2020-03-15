@@ -14,7 +14,7 @@ Python Version: 3.6.3 :: Anaconda custom (64-bit)
 
 Pygame Version: 1.9.6
 
-## Running the tests
+## Running the Game
 
 Navigate to the local directory where all the files from this repository are located and run the python game on the terminal.
 
