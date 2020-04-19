@@ -16,10 +16,10 @@ Pygame Version: 1.9.6
 
 ## Running the Game
 
-Navigate to the local directory where all the files from this repository are located and run the python game on the terminal.
+Download all the files from this repo onto a local directory. On the terminal, nagivate to the local directory hosting all these files and run the main.py file using the command below:
 
 ```
-python spriteCollecting.py
+python main.py
 ```
 
 ### Example Run
